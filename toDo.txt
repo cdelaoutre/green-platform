@@ -1,0 +1,17 @@
+- create a log table
+-- datetime, functioname, websites, pageNumber, status, error description
+-- same for success
+- add all the shops info in products
+
+priceHistory = [
+
+{
+- productID
+- Attributes which can change but last version
+- History
+    Date Variant
+option 1 { Price : price,
+	IsAvailable
+}
+}
+} 
